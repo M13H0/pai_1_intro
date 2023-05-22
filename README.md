@@ -19,16 +19,16 @@
 <h2>2. Klient web API 1 - GET</h2>
 <ul>
 <li><b>1.Napisz w znanym tobie języku (i umieść w repozytorium git), program, który będzie wywoła/ściągnie: https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json.</b>
-<p style ="color:red"><b>Odp: </b>---</p>
+
 <li><b>2. Jeśli Twój program działa, to dodaj obsługę błędów:
 <ul>
 <li>Sprawdzał kodu http,
 <li>Jeśli kod jest błędny, zakończył program,
 <li>Wyświetlił dane kiedy nie było błędu.</b>
 </ul>
-<p style ="color:red"><b>Odp: </b>---</p>
+
 <li><b>3.Jeśli powyższy program działa, umieść go w repozytorium git.</b>
-<p style ="color:red"><b>Odp: </b>---</p>
+<p style ="color:red"><b>Odpowiedź/kod znajduje się w pliku: klient_web_API_1.py</b></p>
 </ul>
 
 <h2>3.Klient web API 2 - POST</h2>
