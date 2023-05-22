@@ -11,8 +11,9 @@
 <h2>1. HTTP</h2>
 <ul>
 <li><b>Do czego służy PATCH czy różni się od PUT?</b>
-<p style ="color:red"><b>Odp: </b>---</p>
+<p style ="color:red"><b>PUT jest używane do całkowitej zamiany zasobu, podczas gdy PATCH jest stosowane do częściowej aktualizacji zasobu.</b></p>
 <li><b>Na jakich metodach http polega API REST, kryjącymi się za skrótem CRUD?</b>
+<p style ="color:red"><b>Skrót CRUD odzwierciedla te cztery podstawowe operacje, które mogą być wykonywane na zasobach w API REST: Create (Utworzenie), Read (Odczyt), Update (Aktualizacja) i Delete (Usunięcie). </b></p>
 </ul>
 
 <h2>2. Klient web API 1 - GET</h2>
