@@ -21,6 +21,7 @@
 <li><b>1.Napisz w znanym tobie języku (i umieść w repozytorium git), program, który będzie wywoła/ściągnie: https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json.</b>
 
 <li><b>2. Jeśli Twój program działa, to dodaj obsługę błędów:
+
 <ul>
 <li>Sprawdzał kodu http,
 <li>Jeśli kod jest błędny, zakończył program,
